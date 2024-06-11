@@ -36,12 +36,38 @@
             }
           },
           {
-            "id": "6352b4aa8ce47c9d",
+            "id": "9c4ca693398105e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "dm/DM Session Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc8925aefeacde0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/quests/Dead Teen Walking.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c3def87414a844f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npc/groups/Brazen Barnacle.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "dm/DM Session Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "dm/DM Session Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "admin/Session Notes.md"
+                "file": "dm/DM Session Index.md"
               }
             }
           }
@@ -189,18 +215,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6352b4aa8ce47c9d",
+  "active": "9c4ca693398105e0",
   "lastOpenFiles": [
-    "admin/session_notes/Session 4 Notes.md",
-    "dm/sessions/Session 7.md",
-    "places/cities/Charterstown.md",
+    "dm/sessions/Session 8.md",
+    "dm/quests/Dead Teen Walking.md",
     "dm/sessions/Session 6.md",
-    "Black Lapis.md",
-    "admin/Session Notes.md",
+    "dm/sessions/Session 7.md",
+    "npc/groups/Brazen Barnacle.md",
+    "dm/quests/A Bridge to the Future.md",
     "dm/Roll a 20.md",
+    "pc/Sybil.md",
+    "pc/Krystabald.md",
+    "pc/Bugsy.md",
+    "pc/Aoife.md",
+    "pc/Kailani.md",
+    "admin/Session Notes.md",
+    "admin/session_notes/Session 4 Notes.md",
+    "places/cities/Charterstown.md",
+    "Black Lapis.md",
     "admin/session_notes/Session 3 Notes.md",
     "admin/session_notes/Session 2 Notes.md",
-    "dm/quests/Dead Teen Walking.md",
     "admin/session_notes/Session 1 Notes.md",
     "places/landmarks/The Glass Hearth.md",
     "dm/sessions/Session 4.md",
@@ -209,14 +243,6 @@
     "places/landmarks/Queen's Lace.md",
     "places/cities/Faciv.md",
     "places/cities/Doubtfire.md",
-    "npc/groups/Brazen Barnacle.md",
-    "npc/groups/The Black Lapis.md",
-    "npc/people/Remus Neyender.md",
-    "dm/sessions/Session 2.md",
-    "dm/sessions/Session 1.md",
-    "dm/quests/Such a Pity....md",
-    "places/landmarks/The Endless Pits.md",
-    "admin/session_notes/Session 0 Notes.md",
     "dm/puzzles/elk_puzzle.png",
     "img/maps/Corosiva.jpg",
     "img/maps/Dynistia.jpg",

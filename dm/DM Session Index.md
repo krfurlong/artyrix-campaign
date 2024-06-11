@@ -12,3 +12,4 @@ DM note to track the flow of sessions.
 - [[Session 5]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]
