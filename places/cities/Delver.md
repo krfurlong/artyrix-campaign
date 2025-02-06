@@ -7,7 +7,12 @@ The scrap city of Delver grew out of the need for some semblance of organization
 ## People
 
 ## Places of Interest
+- [[The Hobby Pot]] - the "premier" junkyard of Delver
+	- Run by a human, [[Duncan]]
+- [[The Shining Gem]] - tavern run by [[Destes Akone]]
 
 ## Sources of Inspiration
 1. Jakku from Star Wars VII 
-2. 
+
+
+![[delver.png]]

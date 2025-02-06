@@ -1,1 +1,3 @@
 #npc 
+
+Race: Hobogoblin
