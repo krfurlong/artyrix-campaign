@@ -3,5 +3,5 @@ A collection of goblins and bugbears living in [[The Endless Pits]]. They tend t
 
 - Leader: [[Gorthok]] (hobogoblin)
 	- Deputy: [[Granaa]] (goblin)
-- A clan of roughly 20 goblins, 5 hobogoblins
+- A clan of roughly 25 goblins, 25 hobogoblins
 - 

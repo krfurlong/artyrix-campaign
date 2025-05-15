@@ -37,3 +37,4 @@ Ideally, end vertical drilling in the Pits entirely if possible, by convincing t
 	1. Family of the Silica Tribe
 7. Level 7: Enflamed and polluted heart(stone); Devilish creatures run amuck - bartering and waylaying even the most intrepid of heroes
 8. Level 8: Fossilized aquifer (dried up now); [[Arthur Tennyson]]'s forces have a secondary base here with a variety of diggers and other pieces of machinery
+## Level 1

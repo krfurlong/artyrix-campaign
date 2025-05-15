@@ -73,7 +73,7 @@ Title: ...Jesus Kryst?
 		- **Gearhive Gauntlets** (att): A pair of gauntlets made from interlocking gears, granting the wearer a +1 bonus to Dexterity (Thieves' Tools) checks and the ability to climb difficult surfaces, including upside down on ceilings. (Rare)
 
 ### The Junkyard
-- Junkyard boss [Duncan] (is living like a king, hoarder energy, particularly now that he's effectively sold out to [[Arthur Tennyson]]
+- Junkyard boss [[Duncan]] (is living like a king, hoarder energy, particularly now that he's effectively sold out to [[Arthur Tennyson]]
 
 #### Combat Options
 - Level 1: Moss covered, weirdly humid and largely picked clean

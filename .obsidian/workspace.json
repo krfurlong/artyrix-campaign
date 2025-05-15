@@ -8,39 +8,98 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d9da86a4e8b2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 13"
-            }
-          },
-          {
-            "id": "affe332d154418f7",
+            "id": "fee920c443b9b6c2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 17.md",
+                "file": "dm/sessions/Session 19.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 17"
+              "title": "Session 19"
             }
           },
           {
-            "id": "76640f8391af159f",
+            "id": "f5f70ac2a7176481",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/cities/Rusted Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Rusted Keys"
+            }
+          },
+          {
+            "id": "45e19fbd90037cfa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 21.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 21"
+            }
+          },
+          {
+            "id": "36455a6a823a367c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 20"
+            }
+          },
+          {
+            "id": "0377d23c1b29cfaf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "dm/quests/Escape_of_the_Torment.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Escape_of_the_Torment"
+            }
+          },
+          {
+            "id": "33b9b9ef84c2f94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Île Follette.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Île Follette"
+            }
+          },
+          {
+            "id": "780d1e353574e0e8",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -48,27 +107,40 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "In the Doghouse"
             }
           },
           {
-            "id": "7155ab87707abf51",
+            "id": "5027880eedfa69aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 18.md",
+                "file": "dm/quests/Retracing Underwater Steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 18"
+              "title": "Retracing Underwater Steps"
+            }
+          },
+          {
+            "id": "e70ca1eaf2cce1f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npc/people/Osiris Siltguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Osiris Siltguard"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +159,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -153,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/Roll a 20.md",
+                "file": "places/cities/Rusted Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +236,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Roll a 20"
+              "title": "Backlinks for Rusted Keys"
             }
           },
           {
@@ -221,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,54 +308,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7155ab87707abf51",
+  "active": "f5f70ac2a7176481",
   "lastOpenFiles": [
-    "dm/sessions/Session 17.md",
-    "dm/quests/In the Doghouse.md",
-    "dm/sessions/Session 18.md",
-    "dm/sessions/Session 13.md",
-    "pc/Soleless Sailors.md",
-    "dm/sessions/Session 15.md",
-    "dm/sessions/Session 16.md",
-    "dm/quests/Wonderland Weirdness.md",
-    "dm/quests/Such a Pity....md",
-    "dm/Roll a 20.md",
-    "places/landmarks/The Endless Pits.md",
-    "dm/DM Session Index.md",
-    "dm/Encounter Difficulty.md",
-    "dm/quests/A Bridge to the Future.md",
-    "places/islands/Havangart.md",
-    "dm/sessions/Session 12.md",
     "npc/people/Osiris Siltguard.md",
-    "npc/groups/The Rust Crows.md",
-    "npc/groups/Domain of Dogs.md",
-    "npc/people/Zumaj.md",
-    "npc/groups/The Lost Change.md",
-    "README.md",
-    "npc/people/Spar Swiftsong.md",
-    "npc/people/Ritavis.md",
-    "dm/sessions/Session 14.md",
-    "npc/people/Yervla Ironlungs.md",
-    "img/maps/delver.png",
-    "img/Pasted image 20240817202858.png",
-    "img/maps/artyrix_full.png",
-    "img/underscrew.jpg",
-    "img/Pasted image 20240730211849.png",
-    "Untitled.canvas",
-    "Pasted image 20240622224632.png",
-    "Pasted image 20240622224730.png",
-    "Pasted image 20240622224726.png",
-    "img/underscrew.jpg.crdownload",
+    "dm/quests/Dead Teen Walking.md",
+    "dm/sessions/Session 11.md",
+    "dm/sessions/Session 20.md",
+    "Ferbin Bubblesnooker.md",
+    "dm/sessions/Session 21.md",
+    "dm/quests/Retracing Underwater Steps.md",
+    "places/cities/Rusted Keys.md",
+    "dm/quests/In the Doghouse.md",
+    "dm/quests/Escape_of_the_Torment.pdf",
+    "places/islands/Île Follette.md",
+    "npc/groups/The Defiant.md",
+    "dm/Encounter Difficulty.md",
+    "dm/Roll a 20.md",
+    "places/islands/Machivelia.md",
+    "places/islands/Dynistia.md",
+    "npc/people/Skipper Caraway.md",
+    "places/islands/Khiage.md",
+    "npc/groups/The Orinoco.md",
+    "dm/quests/A Lion's Share.md",
+    "npc/people/Miranda Barnibas.md",
+    "dm/quests/Clearing the Iron Vein.md",
+    "npc/groups/The Stallignment.md",
+    "dm/quests/Movement of Munitions.md",
+    "dm/sessions/Session 19.md",
+    "dm/quests/Escape_of_the_Torment.pdf.crdownload",
+    "npc/groups/The Black Lapis.md",
+    "dm/quests/Siege on the High Seas.md",
     "dm/puzzles/elk_puzzle.png",
-    "img/maps/Corosiva.jpg",
+    "img/maps/Khiage.jpg",
+    "img/maps/IleFollette.png",
+    "img/underscrew.jpg",
+    "img/Pasted image 20250405194427.png",
+    "img/Pasted image 20240730211849.png",
+    "img/Pasted image 20240817202858.png",
+    "Pasted image 20250405194724.png",
+    "img/maps/rusted_keys.png",
+    "img/maps/delver.png",
+    "Untitled.canvas",
+    "img/underscrew.jpg.crdownload",
     "lore/adventuring_info",
     "dm/puzzles/31DAC500",
     "dm/puzzles/BB962500",
     "dm/puzzles/~$pontecita_puzzle.xlsx",
     "dm/puzzles/pontecita_puzzle.xlsx",
     "dm/puzzles",
-    "dm/quests",
-    "pc",
-    "dm/sessions"
+    "dm/quests"
   ]
 }

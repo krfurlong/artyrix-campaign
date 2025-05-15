@@ -1,9 +1,11 @@
 #npc 
 
+Half-elven trader of the [[Eternal Sea]], based in [[Flintpoint Harbor]].
 ## Wares
 
-| [Ebony Fly](https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power)         | Wondrous     | Gamechanging | Rare      | 6,000 gp             |
+| Various ship improvements<br>https://www.limithron.com/naval-combat                   |              | Upgrades     |           |                      |
 | ------------------------------------------------------------------------------------- | ------------ | ------------ | --------- | -------------------- |
+| [Ebony Fly](https://www.dndbeyond.com/magic-items/figurine-of-wondrous-power)         | Wondrous     | Gamechanging | Rare      | 6,000 gp             |
 | [Gloves of Thievery](https://www.dndbeyond.com/magic-items/gloves-of-thievery)        | Wondrous     | Noncombat    | Uncommon  | 5,000 gp             |
 | [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)  | Potion       | Consumables  | Uncommon  | 150 gp               |
 | [Potion of Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)          | Potion       | Consumables  | Common    | 50 gp                |

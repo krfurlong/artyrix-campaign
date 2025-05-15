@@ -13,7 +13,7 @@ Upon exiting the hubbub of the port and harbor, you all gaze ahead of you and up
 - The Upper Ward: Adjacent to the city-center, the center of political power
 	- The Court of [[Corosiva]]
 	- [[General Lutskyiv]]'s estate
-	- Lord Arthur Tennyson's manor
+	- Lord [[Arthur Tennyson]]'s manor
 	- The VanBeek Estate
 - The Old Quarter: The center of the city, largely open-air with some shops and taverns dotted around to service the needs of those in the Upper Ward
 	- The Notice Board (e.g., quests, news)

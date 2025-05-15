@@ -1,7 +1,7 @@
 #admin 
 Note: all XPs have already been multiplied by 5 per our party size.
 
-	Easy	Medium	Hard	Deadly
+			Easy	Medium	Hard	Deadly
 	1st	 125 	 250 	 375 	 500 
 	2nd	 250 	 500 	 750 	 1,000 
 	3rd	 375 	 750 	 1,125 	 2,000 
