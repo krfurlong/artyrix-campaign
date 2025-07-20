@@ -1,4 +1,4 @@
-#puzzle
+![[Havangart_mined_waters.png]]#puzzle
 
 Riddle/Instructions - again seemingly hidden within a textbook entry:
 > Whirlpools, unsurprisingly, are common among the waters of the [[Eternal Sea]], and as such, any experienced captain should know how to avoid them entirely. For those unlucky souls caught in the abyssal riptide, their fates are cast in stone: their paths never again destined to cross itself as the current pulls them ever inward and downward, encircling them until the meet their doom.

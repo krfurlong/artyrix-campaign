@@ -22,7 +22,7 @@ The honkytonk-esque sounds of the piano downstair still somewhat plunking away i
 		1. At the Dusty Docks, only the upper mast and raised helm areas are not submerged - the remainder appears sunken under water (getting repaired...?)
 		2. The ship itself bears no markings or flags outside of its name
 			1. Hidden in a chest tucked inside the vessel (underwater) is it's banner - a red glaive like looking symbol upon a piece of black fabric
-			 ![[Pasted image 20250405194427.png]]
+			 ![[the_reinvention_colors.png]]
 	3. Captain is a pale gaunt looking figure [[Yama Iscarbo]], accompanied by a piscine looking first mate, [[Carx Slithbane]]. 
 		1. Stat blocks: https://krfurlong.github.io/bestiary/creature/sword-wraith-commander, and https://krfurlong.github.io/bestiary/creature/sea-spawn
 			1. Yama summons other sword wraith warriors if engaged in combat to round out the crew

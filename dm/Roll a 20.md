@@ -10,6 +10,8 @@
 - Aoife family is alive
 - Discount on a boat upgrade
 - Lava monster conveniently dead
+- big ol' ship
+- Way thru the blockade
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -18,6 +20,7 @@
 - More in-world guidance on [[Zumaj]]
 - Destes bar debt wiped out, Tennyson's thumb no longer over
 - Destes bar debt wiped out
+- 
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -26,6 +29,8 @@
 - No lycanthrope
 - Find a consequential magical item
 - Concrete lead to [[Nohu]]
+- expert on lycanthropy
+- Keep the hat aesthetic
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -35,11 +40,14 @@
 - Word from [[Simulcepio]]
 - Looking for a way to get in or around the siege
 -  Bird messages return
+- big ol' ship
+- hear back today from Kai
 # Lindsay
 - No debt
 - help in the alarm in the Pits
 - 16 for: No bounty
 - Hear/see a similar artist drawing/clue of the drake?
 - No bounty
+- big ol' ship
 ## Spencer
 - 
