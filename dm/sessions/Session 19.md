@@ -49,7 +49,7 @@ The party is ambushed at night after picking up Pell. [[Lord Emberfall]] was awa
 		- Seeking to reorient themselves, perhaps get some free supplies
 		- Nothing of note to barter/give in return, but willing to put a good word in with the [[Arcanum Decetto]] - and a favor to cash in [[Pythinia]], should [[Iren Moorsend]] return safetly
 - **Positive**
-	- Friendly merchant vessel - a small schooner led by [[Skipper Caraway]] (typical pirate accent). Hoped to dock in [[Flintpoint Harbor]] in [[Havangart]], but forced to navigate around it due to the siege
+	- Friendly merchant vessel - a small schooner led by [[Skipper Art Caraway]] (typical pirate accent). Hoped to dock in [[Flintpoint Harbor]] in [[Havangart]], but forced to navigate around it due to the siege
 		- See his bio for inventory/wares
 	- Glint of the sun catches a glint of gold at the bottom of the Azure waters of the [[Eternal Sea]]
 		- It's a little shallower here - you may be able to get to whatever is down there...

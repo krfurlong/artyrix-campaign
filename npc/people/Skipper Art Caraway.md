@@ -1,6 +1,7 @@
 #npc 
 
-Half-elven trader of the [[Eternal Sea]], based in [[Flintpoint Harbor]].
+Half-elven trader of the [[Eternal Sea]], based in [[Flintpoint Harbor]]. Affiliated with [[Briny Armada]].
+ship: the blue lady
 ## Wares
 
 | Various ship improvements<br>https://www.limithron.com/naval-combat                   |              | Upgrades     |           |                      |

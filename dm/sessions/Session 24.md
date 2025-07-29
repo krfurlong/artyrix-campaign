@@ -3,7 +3,7 @@ Title:
 <hr>
 
 ## Recap
-- Bugsy curse save: Counter is at 4 (out of 24)
+- Bugsy curse save: Counter is at **5 (out of 24)**
 	- **Wis save 10 required each time he falls asleep**
 - Party joined up under contract with [[The New Transit]] and interacted with [[Nivo Junctos]]. Currently sailing with a small fleet of 4 other much larger/more decked out vessels to break the siege.
 	- Day 1 went by uneventfully - calm seas and minor interactions
@@ -27,12 +27,11 @@ With this, you feel a slight itching and burning sensation: one
 	- **Boon**: Once per combat, roll a DC14 Religion check. On a success, you do not need to roll for your Hands of Healing and the value healed is always maximized for your current dice size.  
 - The other side: **Hekili, Sea Avatar of Talos** - a similarly enormous tiger shark, bearing dark streaks against stripes of what looks like pure electric blue light
 	- Yours is a new sight for my eyes - and small as you are, you are a guppy before me. I am the rumble of thunder and the gusts of the storm. I am Judgement and Revenge - take upon my mantle and eschew that which has marked you from birth and I can promise you  power to force your foes to bend to your will. To quake beneath your maw and make them fear you - as you should fear me. Together we shall set things right - and return to your family he who you seek.
-	- **Boon:** Once per combat, when you make a bonus action attack in your shifted form, your attack deals an additional 2d6 thunder damage and the target must save on a DC14 Strength save or be pushed 10 feet away from you and knocked prone
+	- **Boon:** Once per combat, when you make a bonus action BITE attack in your shifted form, your attack deals an additional 2d6 thunder damage and the target must save on a DC14 Strength save or be pushed 10 feet away from you and knocked prone
 ## Intro for real
 Your second day of the voyage from [[Rusted Keys]] to the isle of [[Havangart]] begins much like the first day: smooth waters lapping against the side of _Dat Aft_ cause you all resting to slowly stir awake - at peace but with a sense of cautious anxiety at what lay before you.
 
 [[New Transit - Siege Busters]]
-
 
 ### Connecting with the Crews
 Slightly after mid-day, Bugsy - you clock a silver glint fly off of [[Nymphsong]] - Lysandra La Rose's vessel immediately in front of you. It dives towards the ocean waters for a moment before levelling out to coast on the maritime winds directly towards your vessel.
@@ -40,18 +39,14 @@ Slightly after mid-day, Bugsy - you clock a silver glint fly off of [[Nymphsong]
 - As Lysandra's familiar, she can speak through Umi:
 	- We've voyaged for over a day now -  Have you no means of truly conversing?
 		- What seek your party at [[Havangart]]? are you transporting goods and perishables that are in need to quick delivery - why the haste to join our siege breakers?
-		- 
 
 ### Encounter for Day 2:
-Scuttling over the surface of the water...you hear it far before you see them...thousands, maybe millions of pale red crabs clawing and scuttling over one another - consuming likely everything that gets in their way
+Scuttling over the surface of the water...you hear it far before you see them...thousands, maybe millions of pale grey crabs clawing and scuttling over one another - consuming likely everything that gets in their way
 	1. What do you do?
 		the first group of ships pour something overboard - some sort of deterrent - it would appear, as the wave of white ebony colored crabs shifts like a tidal wave away from them and towards your ship...
 		12 [Bone Crabs](https://krfurlong.github.io/bestiary/creature/bone-crab) "board" your ship, begin poking around looking for food. If they perceive it, DC12 - 3 chances, they will eat it all.
 	2. Being aggressive towards the crabs --> summons the crabstrocity.
 	3. Left to their own devices, the crabs damage all ships: 3d10 hull damage and will consume all food aboard
 
-
+The party "befriends" the crabstrocity - promising much food at breaking the siege.
 ## Next Session
-- Kai shark vision?
-- Already rolled - calm seas on day 2 of sailing
-- 

@@ -117,7 +117,7 @@ Not really a harbor area on [[Delver]], but asking around could yield some hits 
 	- Sea monsters?
 		- Young Mercury dragon named Hydrargio playing in the waters, if they can be detected.
 - **Positive**
-	- Friendly merchant vessel - a small schooner led by [[Skipper Caraway]] (typical pirate accent) likely from [[Flintpoint Harbor]] in [[Havangart]].
+	- Friendly merchant vessel - a small schooner led by [[Skipper Art Caraway]] (typical pirate accent) likely from [[Flintpoint Harbor]] in [[Havangart]].
 		- See his bio for inventory/wares
 	- Glint of the sun catches a glint of gold at the bottom of the Azure waters of the [[Eternal Sea]]
 		- It's a little shallower here - you may be able to get to whatever is down there...

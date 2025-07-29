@@ -76,7 +76,7 @@ Random Events:
 4. Large storm swells up
 	1. Skill challenge - how do y'all batton up the hatches? DC15, 3 successes before 3 failures
 	2. Failure: Mast Damage 5d10, hull damage 3d10, lost cannon/cannon balls.
-5. Friendly merchant vessel - a small schooner led by [[Skipper Caraway]] (typical pirate accent). Hoped to dock in [[Flintpoint Harbor]] in [[Havangart]], but forced to navigate around it due to the siege
+5. Friendly merchant vessel - a small schooner led by [[Skipper Art Caraway]] (typical pirate accent). Hoped to dock in [[Flintpoint Harbor]] in [[Havangart]], but forced to navigate around it due to the siege
 		- See bio for his wares
 6. "Open Sea" Mimic
 	1. Floating maybe 10 minutes off course you see what looks like a single small boat, one that could be an evacuation raft after a larger ship went down.
@@ -114,8 +114,6 @@ Along the shoreline of the nearside, you see 4 small and one longer rowboats see
 
 Upon crossing through the strait, 2 stealth checks for the Fleet to pass in
 DC15 stealth check to avoid detection from the siege - upon failure, 2 patrol sloops, smaller but still foreboding, break off from the larger group of ships and quietly begin drifting towards the newcomers  
-
-
 
 ### Facts of the siege
 - Roughly 40 ships in the siege of [[Havangart]] -

@@ -12,6 +12,7 @@
 - Lava monster conveniently dead
 - big ol' ship
 - Way thru the blockade
+- Learn more about winged creature
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -20,7 +21,7 @@
 - More in-world guidance on [[Zumaj]]
 - Destes bar debt wiped out, Tennyson's thumb no longer over
 - Destes bar debt wiped out
-- 
+- Befriend Cazpian the dragon turtle
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -31,6 +32,7 @@
 - Concrete lead to [[Nohu]]
 - expert on lycanthropy
 - Keep the hat aesthetic
+- Upon [[Havangart]] arrival, mushroom cure for lycanthropy
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -42,6 +44,7 @@
 -  Bird messages return
 - big ol' ship
 - hear back today from Kai
+- Ensure no negative contractual consequences
 # Lindsay
 - No debt
 - help in the alarm in the Pits
