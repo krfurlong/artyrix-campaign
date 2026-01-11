@@ -1,13 +1,13 @@
 #lore #npc
 
 ## Background
-| Race | Dragon (Emerald) |
-| ---- | ---- |
-| Alignment | True Neutral |
-| Domains | - Discovery and secret-keeping<br>- Sociology and introversion<br>- Teaching and Innovation |
-| Symbol | Tome covered in dragon scales |
-| Nicknames | - The Draconic Sage<br>- The Viridescent Archivist<br>- Drake of Lost Knowledge |
-| Last known location | The Ruby Palace (Astral Plane) |
+| Race                | Dragon (Emerald)                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------- |
+| Alignment           | True Neutral                                                                                |
+| Domains             | - Discovery and secret-keeping<br>- Sociology and introversion<br>- Teaching and Innovation |
+| Symbol              | Tome covered in dragon scales                                                               |
+| Nicknames           | - The Draconic Sage<br>- The Viridescent Archivist<br>- Drake of Lost Knowledge             |
+| Last known location | The Ruby Palace (Astral Plane)                                                              |
 
 If legends are to be believed, the great emerald dragon [[Zumaj]] was born and still resides in the infinitely large halls of the Ruby Palace. Within this bastion on the Astral Plane, gem dragons both divine and "mundane" resided to protect their leader, Sardior the Ruby Dragon. [[Zumaj]], in particular, was known as the prime scholar, sage, and record keeper within the Ruby Place, going so far as to reside within an enormously large library - with ceilings so high they were rumored to stretch into cosmos themselves. Among the tomes, records, and scrolls, [[Zumaj]] spent an eternity studying, learning, and memorizing until they understood the very nature of the universe and the secrets governing the multiverse. And then - only then - did they permit themselves to rest.
 

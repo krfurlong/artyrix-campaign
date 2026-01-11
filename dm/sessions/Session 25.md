@@ -1,7 +1,6 @@
 Date: 7/29/2025
 Title: Breaking the Siege
 <hr>
-
 ## Recap
 - Bugsy curse save: Counter is at **5 (out of 24)**
 	- **Wis save 10 required each time he falls asleep**
@@ -12,6 +11,12 @@ Title: Breaking the Siege
 - Kai had a vision of sharks - opted to not choose, unclear what the consequences of this are...
 ## Intro
 It is nearly a moonless night this evening - as Dat Aft, buffered by the accompanying ships in the small armada, drift nearly silently through the narrow strait. The once dangerously electrically charged - the deep thrum of the electric current and smell of ozone has waned since you even first arrived at this atoll on the [[Eternal Sea]] - spelling out safety for your fleet and danger for those foes that lay beyond the buffer between you and the island of [[Havangart]].
+
+## The party's plan
+- Aiming for:
+	- Crabs as a first wave/distraction
+	- Strategically sailing through
+
 
 ## The state of the Siege
 
@@ -26,7 +31,7 @@ It is nearly a moonless night this evening - as Dat Aft, buffered by the accompa
 
 - Sloops
 	- Captain/Living person names:
-		- Snagtooth Thumberwick - harengon from [[Linnæsa]], nearby [[Bugsy]]'s familial home
+		- Snagtooth Tumberwick - harengon from [[Linnæsa]], nearby [[Bugsy]]'s familial home
 		- Gorpnik the goblin - native of [[Corosiva]]
 		- Prisima Driftwood - outcast triton daughter from the outskirt waters of [[Athenae]]
 	- Combat stats (per ship)
@@ -36,16 +41,16 @@ It is nearly a moonless night this evening - as Dat Aft, buffered by the accompa
 - Brigantines
 	-  Captain/Living person names:
 		- Artemis Rolfe - female human with ties back to [[Île Follette]], previously subjugated before breaking free
-		- Dustgore Emberplate -  anthro-rhinocerous from [[Linnæsa]]
-		- Luna Sha'Herizid - female tabaxi from [[Dynistia]], lower class and was cast out/pushed out by [[Sybil]]'s family
+		- [[Dustgore Emberplate]] -  anthro-rhinocerous from [[Linnæsa]]
+		- Luna Sha'Herizid - female tabaxi from [[Dynistia]], lower class and was cast out/pushed out by [[Sybil]]'s family - the [[Sandy Stallion]] name of vessel
 	- Combat stats
 		- https://krfurlong.github.io/bestiary/creature/shadow-dancer (Artemis, Luna)
 		- https://krfurlong.github.io/bestiary/creature/feyblade-paladin (dustgore)
 		- 1d3 Brine Zombies, 1d3 shadows (https://krfurlong.github.io/bestiary/creature/shadow)
 - Frigates
 	- Captain/Living person names:
-		- Morvaine Shadeclad: shadow-elf, with distant ties to the exiled [[The Sleepwalkers]] 
-		- Tohu-0: a malfunctioning automaton from [[Delta Prime]] seeking destruction and creation in one foul swoop
+		- [[Morvaine Shadeclad]]: shadow-elf, with distant ties to the exiled [[The Sleepwalkers]] 
+		- [[Tohu-0]]: a malfunctioning automaton from [[Delta Prime]] seeking destruction and creation in one foul swoop
 	- Combat stats:
 		- https://krfurlong.github.io/bestiary/creature/construct-alchemist (Tohu)
 		- https://krfurlong.github.io/bestiary/creature/blackguard (Morvaine), glaive smites are cool.
@@ -59,18 +64,4 @@ It is nearly a moonless night this evening - as Dat Aft, buffered by the accompa
 ![[Pasted image 20250727203255.png]]
 
 
-## Kai Shark Spirit Blessings/Curses
-Next time Kai shifts - Roll a d6
-- Evens -->**Peahi** _Wash Away the Pain_
-	- Each time you see an ally other than yourself take damage, you feel compelled to act.
-		- Each time an ally is damaged, your Pain Counter increases by 1.
-		- When your Counter hits 4, your Healing hits increase by 1d4 and you reset your Counter to 0.
-		- When your Counter hits 4, all attacks and non-medicine checks suffer a 1d4 penalty.
-		- This penalty/bonus to checks and healing increases to 2d4 at 8, 3d4 at 12, 4d4 at 16, etc.
-	- 
-- Odds --> **Hekili, Sea Avatar of Talos**. _Blood in the Water..._
-	- When you first damage a foe, you mark it as your quarry.
-		- Attacks against all other enemies are made with disadvantage.
-		- You gain an additional +1 to hit fo reach time you damage your quarry
-		- You must make a DC15 Wisdom saving throw whenever you try to move more than 10 feet away from your quarry each turn. On a fail, you cannot move further away. 
-	- When you slay your quarry, you are free to move again
+## 

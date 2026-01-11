@@ -35,6 +35,7 @@ Nivo has pulled in connection of various ranking individuals among [[The New Tra
 	- last
 	- Laid back demeanor but very by the books when it comes to business
 	- First mate: - triton Kato Blacksword Morris.
+		- lemur familiar - Leopold
 - Secondary: the [[Libra Shackleton]], conscripted out of [[Île Follette]] with the captain Tommy Nicely DeNice (human)
 	- NYC/newsies accent
 	- 1st

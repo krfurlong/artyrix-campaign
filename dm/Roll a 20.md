@@ -13,6 +13,14 @@
 - big ol' ship
 - Way thru the blockade
 - Learn more about winged creature
+- Tactical advantage to the blockade
+- Figure out who's in charge 
+- Find safe passage into [[The Fermenti Caverns]]
+- Let Kryst out
+- Find roughly where [[Nohu]] is
+- Clarification on [[Dr. Shoals]] if he's involved w/ reinvention or not
+- Find someone who's seen the murder of [[Jessica]]
+- Lead on [[Keelan Edge]] 
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -22,6 +30,9 @@
 - Destes bar debt wiped out, Tennyson's thumb no longer over
 - Destes bar debt wiped out
 - Befriend Cazpian the dragon turtle
+- Ride dragon turtle into battle
+- Easy to get through the blockade on the way out
+- Eventually, somepoint - find path to [[Zumaj]] in Astral
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -33,6 +44,12 @@
 - expert on lycanthropy
 - Keep the hat aesthetic
 - Upon [[Havangart]] arrival, mushroom cure for lycanthropy
+- Stealth option
+- Who is [[Jasad Peatmire]]
+- [[Jasad Peatmire]] has an appointment 🎉
+- extra spell w/ Lore bard
+- [[Rifterra]] zombies cleared out
+- No negative consequences for killing Auntie Mossy Magpie 🎉
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -45,6 +62,13 @@
 - big ol' ship
 - hear back today from Kai
 - Ensure no negative contractual consequences
+- Leave [[Havangart]] with a boat of...their own/sailable
+- Find a bunch of provisions for Simulcepio
+- Find provisions for [[Simulcepio]]
+- Lead on [[Nohu]]
+- Get a lead on [[Keelan Edge]] whether he's alive or dead 🎉
+- Nice boat.
+- Bigger boat
 # Lindsay
 - No debt
 - help in the alarm in the Pits
@@ -52,5 +76,12 @@
 - Hear/see a similar artist drawing/clue of the drake?
 - No bounty
 - big ol' ship
+- Crab becomes a trusted ally
+- Cure for Bugsy 🎉 for free 🎉
+- Info on [[Nohu]]
+- More info or getin contact w/ [[Nohu]]
+- brain blast re: Leonin witch
+- Easy side quest
 ## Spencer
-- 
+- Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
+- Go find the kid and find his grandma
