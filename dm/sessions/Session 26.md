@@ -82,7 +82,7 @@ These are not normal times - however - and the harbor remains unchanged from whe
 	1. Taverns and performance spaces abound but many are closed up
 	2. Taverns include 
 		1. The Primed Canvas
-		2. The Inkwell - (more sophisticated, caligraphy vibes)
+		2. The Inkwell - (more sophisticated, calligraphy vibes), 
 		3. The Discordant Dragon - musical tavern with boisterous performance room underneath the main level
 		4. Maybe a dozen other closed up
 

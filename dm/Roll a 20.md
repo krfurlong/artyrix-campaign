@@ -21,6 +21,8 @@
 - Clarification on [[Dr. Shoals]] if he's involved w/ reinvention or not
 - Find someone who's seen the murder of [[Jessica]]
 - Lead on [[Keelan Edge]] 
+- Make it to the island without issue in this boat
+- Solve murder --> all the way to the island
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -32,7 +34,8 @@
 - Befriend Cazpian the dragon turtle
 - Ride dragon turtle into battle
 - Easy to get through the blockade on the way out
-- Eventually, somepoint - find path to [[Zumaj]] in Astral
+- Eventually, some point - find path to [[Zumaj]] in Astral
+- Higher paying side gigs
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -50,6 +53,7 @@
 - extra spell w/ Lore bard
 - [[Rifterra]] zombies cleared out
 - No negative consequences for killing Auntie Mossy Magpie 🎉
+- Get bearings on [[Nohu]] upon arriving in [[Île Follette]]
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -69,6 +73,7 @@
 - Get a lead on [[Keelan Edge]] whether he's alive or dead 🎉
 - Nice boat.
 - Bigger boat
+- Body trade: [[Tzimira Malatrik]] for [[Nohu]]
 # Lindsay
 - No debt
 - help in the alarm in the Pits
@@ -82,6 +87,8 @@
 - More info or getin contact w/ [[Nohu]]
 - brain blast re: Leonin witch
 - Easy side quest
+- Get contact/word from [[Keelan Edge]]
 ## Spencer
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
+- Roll a spoil and get on the ship so with a distant start so I can go up to the dog and help (Jiacco, 2/8)

@@ -24,7 +24,7 @@ As the wall of fungi literally part before you, your group exits the realm of [[
 	- Also honestly would admit that he's never seen [[Kai]] before this most recent interaction
 - If the party "behaves" he may share that [[Nohu]] was left roughly:
 	- NW of [[Machivelia]], SE of [[Île Follette]]
-	- He may or may not share that: Nohu's location was shared with a friend of the clan - a slaver merchant, half-giant named [[Skriff the Squinter]],  from [[The Ascendent]] headed towards [[East Foundry]]
+	- He may or may not share that: Nohu's location was shared with a friend of the clan - a slaver merchant, half-giant named [[Skriff the Squinter]],  from [[The Kismet]] headed towards [[East Foundry]]
 - [[Osiris Siltguard]] did not conduct the raid on the island to retrieve [[The Turnstone Sigil]], but he did oversee the raid from sea 
 	- Escort [[Katya the Carrion]] - a hag-touched Hexblood necromancer/warlock - away form [[Linnæsa]], around [[Machivelia]].
 	- [[Katya the Carrion]] is currently conducting experiments on the stone in lost ruins in the Eastern desert of [[Dynistia]]

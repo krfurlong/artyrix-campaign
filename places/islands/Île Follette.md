@@ -30,7 +30,7 @@ In the most recent bout of elections, an outsider named [[Tethis Rosevale]] from
 		- Landmarks include: [[Eagle's Nest]], [[Vanishing Point]]
 	- [[Broken Oath]] - Led by [[The Defiant]]
 		- Landmarks including: [[Valley of Broken Temples]], [[Doubtfire]]
-	- [[Zodiac Row]] - Led by [[The Fated]]
+	- [[Zodiac Row]] - Led by [[The Kismet]]
 		- Landmarks including: [[Inscriptus]], [[Devil's Bargain]]
 	- [[South Crucible]] - Led by a mix of the three lesser parties
 		- Landmarks including: [[Pathos Harbor]], [[Durmastra]], [[The Combine]]
