@@ -51,6 +51,7 @@ They've been sent on a vision quest by [[Zumaj]] to retrieve the artifact held b
 #### Hunting down the silver dragon
 - An enormous floating iceberg in the midst of the sea, the environment around it is that of a wild blizzard - entirely incongruous with the weather in the proximity beyond this place
 	- A huge hole has been bore-d out of the top, leading downward in a slippery slope into the lair of the Silver Dragon (Adult/parent: Rikkur the Frozen Historian has been killed by [[Keelan Edge]]; a codex of a hint carved into the skinned hide of the slain parent)
+		- [[Keelan Edge]] has been forced into a life of banditry through terror and sheer force of will by [[Lord Emberfall]]
 	- The only daughter of Rikkur - Zostym the Watcher (Young Dragon), mourns still - though the death of her parent occurred perhaps a month prior. 
 
 

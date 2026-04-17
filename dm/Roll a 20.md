@@ -36,6 +36,7 @@
 - Easy to get through the blockade on the way out
 - Eventually, some point - find path to [[Zumaj]] in Astral
 - Higher paying side gigs
+- Dragon is easier to kill
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -92,3 +93,4 @@
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
 - Roll a spoil and get on the ship so with a distant start so I can go up to the dog and help (Jiacco, 2/8)
+- 

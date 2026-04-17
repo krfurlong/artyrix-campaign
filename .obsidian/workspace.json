@@ -8,55 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6860b19ab1ae955e",
+            "id": "d38bb7fedeb4bbf0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 34.md",
+                "file": "dm/sessions/Session 36.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 34"
+              "title": "Session 36"
             }
           },
           {
-            "id": "a79f79d75b35d099",
+            "id": "e046b3577269b6b5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 35.md",
+                "file": "dm/sessions/Session 37.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 35"
+              "title": "Session 37"
             }
           },
           {
-            "id": "8d78afac0545124c",
+            "id": "3c3a8197e929aa34",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/quests/Odds are a Vice - Not in his Favor.md",
+                "file": "npc/groups/The Stallignment.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Odds are a Vice - Not in his Favor"
+              "title": "The Stallignment"
             }
           },
           {
-            "id": "1b1109054d8b7908",
+            "id": "5375e2d40e5d7798",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,77 +68,35 @@
             }
           },
           {
-            "id": "f97705b56e2166a6",
+            "id": "991f001aa4ccf41c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/groups/Sagezza.md",
+                "file": "places/cities/New Sigil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sagezza"
+              "title": "New Sigil"
             }
           },
           {
-            "id": "87b56e64b9ca4647",
+            "id": "29140fee5e353c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Île Follette.md",
+                "file": "npc/groups/The Kismet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Île Follette"
-            }
-          },
-          {
-            "id": "9a0f7a551c76d313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/Encounter Difficulty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encounter Difficulty"
-            }
-          },
-          {
-            "id": "b20880b64f47890f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casino Orinoco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Casino Orinoco"
-            }
-          },
-          {
-            "id": "fe165721d2c55ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/Roll a 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roll a 20"
+              "title": "The Kismet"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,13 +149,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c709221921f0dbc1",
@@ -228,17 +182,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 34.md",
+                "file": "places/cities/New Sigil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 34"
+              "title": "Backlinks for New Sigil"
             }
           },
           {
@@ -247,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Île Follette.md",
+                "file": "places/cities/New Sigil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Île Follette"
+              "title": "Outgoing links from New Sigil"
             }
           },
           {
@@ -292,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -312,54 +266,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a79f79d75b35d099",
+  "active": "991f001aa4ccf41c",
   "lastOpenFiles": [
-    "dm/sessions/Session 34.md",
-    "Session 35.md",
-    "dm/quests/Odds are a Vice - Not in his Favor.md",
     "places/islands/Île Follette.md",
-    "Casino Orinoco.md",
-    "dm/Roll a 20.md",
-    "dm/Encounter Difficulty.md",
-    "Tzimira Malatrik.md",
+    "places/cities/New Sigil.md",
+    "dm/sessions/Session 37.md",
+    "npc/groups/The Stallignment.md",
     "npc/groups/The Kismet.md",
+    "dm/sessions/Session 30.md",
+    "dm/sessions/Session 36.md",
+    "Pasted image 20260416173948.png",
+    "places/cities/Rusted Keys.md",
+    "Untitled.md",
+    "places/cities/Ruddy Rock.md",
+    "npc/groups/The Defiant.md",
+    "dm/sessions/Session 31.md",
+    "npc/people/Nohu.md",
+    "npc/people/Lord Emberfall.md",
+    "dm/sessions/Session 35.md",
+    "npc/people/Keelan Edge.md",
+    "dm/Hidden Lore/Soneela Tarot Reading.md",
+    "lore/Assassin Note 1.md",
+    "npc/groups/The Ascendent.md",
+    "dm/Hidden Lore/Dragon-Touched Artifacts.md",
+    "dm/sessions/Session 34.md",
+    "lore/adventuring_info/Kai Shark Spirit Blessings and Curses.md",
+    "dm/Hidden Lore/14127230",
+    "dm/Roll a 20.md",
+    "dm/Hidden Lore/F9891D50",
+    "dm/Hidden Lore/EE29FC50",
+    "dm/Hidden Lore/keelen_edge_notes.xlsx",
+    "dm/Hidden Lore/6E78FC50",
+    "dm/Hidden Lore/~$keelen_edge_notes.xlsx",
+    "dm/sessions/Session 32.md",
+    "npc/people/Hounga Kalfou.md",
     "dm/DM Session Index.md",
-    "npc/groups/The Orinoco.md",
-    "places/islands/Dynistia.md",
-    "places/islands/Linnæsa.md",
-    "Chromastorm.md",
-    "npc/groups/Sagezza.md",
-    "places/landmarks/Arcanum Decetto.md",
     "dm/puzzles/D22FC000",
     "dm/puzzles/E20FC000",
     "dm/puzzles/47ADC000",
     "dm/puzzles/5BECC000",
-    "dm/puzzles/D0DEB000",
-    "dm/puzzles/75F7B000",
-    "dm/puzzles/orinoco_casino_puzzle.xlsx",
-    "dm/puzzles/~$orinoco_casino_puzzle.xlsx",
-    "npc/people/Rogi Cafir.md",
-    "The Riggers.md",
-    "dm/sessions/Session 30.md",
-    "places/islands/Machivelia.md",
-    "npc/people/Katya the Carrion.md",
-    "npc/groups/The Reinvention.md",
-    "places/landmarks/Bindo Lagoon.md",
-    "places/cities/New Sigil.md",
-    "npc/groups/The New Transit.md",
-    "npc/people/Nohu.md",
-    "Untitled.base",
     "npc/people/Pasted image 20260111135740.png",
     "npc/people/Pasted image 20251220122534.png",
     "npc/people/soneela_img.png",
     "npc/people/Pasted image 20251101184357.png",
     "img/lord_maris_pic.png",
     "npc/people/aine_mcphee.png",
-    "dm/Hidden Lore",
     "img/Pasted image 20251025144433.png",
     "img/maps/rifterra.png",
     "img/maps/Havangart.jpg",
-    "dm/puzzles/Pasted image 20250727203255.png",
     "Untitled.canvas"
   ]
 }
