@@ -44,7 +44,7 @@ Their haul: 25 slaves to auction off upon arrival in [[New Sigil]]. Largely pull
 
 #### Gristle Interactions
 If the party saves/intervenes:
-> - "That creature belongs to the sea - it was weak enough to be caught and weak enough to fall overboard. By pulling it aboard your vessel, you take on its indebtedness to me and my crew. Tell me: by what right do you claim ownership? Don't waste my time - speak quick, return what's mine else I'll take what's owed to me out of your hull."
+> "That creature belongs to the sea - it was weak enough to be caught and weak enough to fall overboard. By pulling it aboard your vessel, you take on its indebtedness to me and my crew. Tell me: by what right do you claim ownership? Don't waste my time - speak quick, return what's mine else I'll take what's owed to me out of your hull."
 
 Motivations:
 - wants his prisoner back
@@ -57,4 +57,26 @@ Can offer if very convinced by their argument...
 - 300gp to party (He plans to sell servants for 2k-5k/person)
 - 1-2 vials Riptide Poison (DC16 Con or poisoned-->restrained)
 
+## Arriving at [[New Sigil]]
+> As the fog finally breaks before you, you finally get your first look at the immense city of New Sigil before you. Even for those of you returning to the capital, the size is staggering...to the point of being almost comical. The city stretches nearly and seems to wrap around the coastline before you - spanning perhaps 30-40 miles along the western coast of [[Île Follette]]. The low din and rumble that you had been hearing for near an hour now - growing more present over time - was not in fact the rush of the tides, but rather an ever present churn and wall of sound, a cacophony of urban sprawl and activity, of possibility and opportunity, of hardship and squalor. 
+
+Garde d'este, the harbor master at [[Estatione d'Este]]: triton, Hjrona, sharply dressed in dark brown leathers, a clipboard, and quill ready in her hand. Radial tattoos around her right eye and a single long teardrop silver earing. 
+> Welcome to [[Estatione d'Este]] of [[New Sigil]]. State your vessel's name, your business in the city, and your factions.
+**Gives a brief intro to the city**, its levels and the current region: [[Estatione d'Este]]
+
+### Current Referendums 
+
+- On New Sigil Regulation 33492.61a subsection 43: Increasing the tariff on cross-level teleportation between [[Parlimentary Square]] and the [[Idyllic Lofts]] to 20gp from 15gp, with funds diverted to mitigating pollution accumulating in [[The Deep Dregs]].
+- Reoccurring Petition 835.22: Representatives from [[Broken Oath]] submit that the school and faculty of theology in [[The Common Campus]] should be disbanded with course loads transferred to the History or Sociology Departments, given their belief that "there's nothing special about the gods"
+
+### Bugsy's Debt/Old Studio?
+Landlord sold off debt to [[The Stallignment]] forces, who will work to collect on what was owed.
+- 1100 gp + interest and collectors burden, 1500gp
+- Main figure: [[Binjar the Flecked]], a weretiger w/ flame-tongue (d4 self damage for 2d6 extra/set alight), constantly flanked by a cadre of 4 loyal rogues (CR3/4)
+- His old PI office has been largely converted to a fence/front for money laundering purposes.
+	- Selling bao buns, rice paddies, noodle bowls, and stuffed naans (chicken, veggie, spiced potatoes)
+### New Sigil PD?
+Chief: [[Pierre O'Leary]], human, early 40's, political appointee from [[Tethis Rosevale]]; generally well-liked on the force and by the populous despite generally lacking experience and credentials
+Deputy Chief: [[Leopold Harvey]], former New Sigil Metropolitan Police Chief (Leonin)
+Chief Deputy: [[Miles Lobo]], (“Smiles”) a (Loxodon) former partner; young, jovial, and bright
 

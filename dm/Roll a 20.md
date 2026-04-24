@@ -23,6 +23,7 @@
 - Lead on [[Keelan Edge]] 
 - Make it to the island without issue in this boat
 - Solve murder --> all the way to the island
+- Find a lead on [[Jessica]]
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -37,6 +38,8 @@
 - Eventually, some point - find path to [[Zumaj]] in Astral
 - Higher paying side gigs
 - Dragon is easier to kill
+- [[Zumaj]] not to be pissed
+
 # Rei
 - Immediate clues on [[Lord Emberfall]]
 - Eggs
@@ -55,6 +58,7 @@
 - [[Rifterra]] zombies cleared out
 - No negative consequences for killing Auntie Mossy Magpie 🎉
 - Get bearings on [[Nohu]] upon arriving in [[Île Follette]]
+- Part of the dragon horde
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -75,6 +79,7 @@
 - Nice boat.
 - Bigger boat
 - Body trade: [[Tzimira Malatrik]] for [[Nohu]]
+- Make a useful friend in [[New Sigil]]
 # Lindsay
 - No debt
 - help in the alarm in the Pits
@@ -89,6 +94,7 @@
 - brain blast re: Leonin witch
 - Easy side quest
 - Get contact/word from [[Keelan Edge]]
+- No wanted posters of [[Sybil]] in [[New Sigil]]
 ## Spencer
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
