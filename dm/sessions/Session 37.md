@@ -76,7 +76,8 @@ Landlord sold off debt to [[The Stallignment]] forces, who will work to collect 
 - His old PI office has been largely converted to a fence/front for money laundering purposes.
 	- Selling bao buns, rice paddies, noodle bowls, and stuffed naans (chicken, veggie, spiced potatoes)
 ### New Sigil PD?
-Chief: [[Pierre O'Leary]], human, early 40's, political appointee from [[Tethis Rosevale]]; generally well-liked on the force and by the populous despite generally lacking experience and credentials
+Executive Director: [[Pierre O'Leary]], human, early 40's, political appointee from [[Tethis Rosevale]]; generally well-liked on the force and by the populous despite generally lacking experience and credentials
 Deputy Chief: [[Leopold Harvey]], former New Sigil Metropolitan Police Chief (Leonin)
 Chief Deputy: [[Miles Lobo]], (“Smiles”) a (Loxodon) former partner; young, jovial, and bright
+	...of People Protection
 

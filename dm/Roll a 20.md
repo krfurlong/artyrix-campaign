@@ -24,6 +24,9 @@
 - Make it to the island without issue in this boat
 - Solve murder --> all the way to the island
 - Find a lead on [[Jessica]]
+- Find someone in [[The Kismet]] but is having doubts
+- See [[Dr. Shoals]]
+- Successfully able to infiltrate [[Pazuzu's Stables]]
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -39,6 +42,8 @@
 - Higher paying side gigs
 - Dragon is easier to kill
 - [[Zumaj]] not to be pissed
+- Something "lucky"
+- Something "lucky"
 
 # Rei
 - Immediate clues on [[Lord Emberfall]]
@@ -59,6 +64,9 @@
 - No negative consequences for killing Auntie Mossy Magpie 🎉
 - Get bearings on [[Nohu]] upon arriving in [[Île Follette]]
 - Part of the dragon horde
+- [[Miles Lobo]] was researching [[The Kismet]] movements
+- Concrete lead on [[Jessica Peterson]] 🎉
+- No conflict aboard this train
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -67,7 +75,7 @@
 - Portal from pits (5th later) to [[Havangart]] x2
 - Word from [[Simulcepio]]
 - Looking for a way to get in or around the siege
--  Bird messages return
+- Bird messages return
 - big ol' ship
 - hear back today from Kai
 - Ensure no negative contractual consequences
@@ -80,6 +88,10 @@
 - Bigger boat
 - Body trade: [[Tzimira Malatrik]] for [[Nohu]]
 - Make a useful friend in [[New Sigil]]
+- See [[Prickle Burrowheart]]'s mom
+- Safe way to make money
+- Encounter assistance 🎉🎉
+- 
 # Lindsay
 - No debt
 - help in the alarm in the Pits
@@ -95,8 +107,12 @@
 - Easy side quest
 - Get contact/word from [[Keelan Edge]]
 - No wanted posters of [[Sybil]] in [[New Sigil]]
+- Find slave from [[The Sunken Core]] who's seen [[Nohu]]
+- Concrete lead on [[Nohu]]
+- Bugsy and Sybil get there in time
 ## Spencer
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
 - Roll a spoil and get on the ship so with a distant start so I can go up to the dog and help (Jiacco, 2/8)
-- 
+- Fight a big fiery dragon
+- I will save the world with my alien and me

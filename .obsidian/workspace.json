@@ -8,67 +8,99 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d38bb7fedeb4bbf0",
+            "id": "991f001aa4ccf41c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 36.md",
+                "file": "places/cities/New Sigil.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 36"
+              "title": "New Sigil"
             }
           },
           {
-            "id": "e046b3577269b6b5",
+            "id": "2eed4bbb2e32c637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/landmarks/Blind Eye Borough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blind Eye Borough"
+            }
+          },
+          {
+            "id": "b45cb389bb10900d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 37.md",
+                "file": "dm/sessions/Session 39.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 37"
+              "title": "Session 39"
             }
           },
           {
-            "id": "412f7dd2cb3323fe",
+            "id": "7b80b8edaa6096c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 40.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 40"
+            }
+          },
+          {
+            "id": "5a144442ba979afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Early Artyrian Timeline.md",
+                "file": "dm/quests/Lost in Deep Cover.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Early Artyrian Timeline"
+              "title": "Lost in Deep Cover"
             }
           },
           {
-            "id": "3c3a8197e929aa34",
+            "id": "7d55caee01830cec",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/groups/The Stallignment.md",
+                "file": "dm/sessions/Session 41.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Stallignment"
+              "title": "Session 41"
             }
           },
           {
-            "id": "5375e2d40e5d7798",
+            "id": "5d61940862356604",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,50 +111,6 @@
               },
               "icon": "lucide-file",
               "title": "Île Follette"
-            }
-          },
-          {
-            "id": "991f001aa4ccf41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/cities/New Sigil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Sigil"
-            }
-          },
-          {
-            "id": "29140fee5e353c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/groups/The Kismet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Kismet"
-            }
-          },
-          {
-            "id": "bddd780234a579a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/Hidden Lore/Case File - Jessica Peterson.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Case File - Jessica Peterson"
             }
           }
         ],
@@ -183,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c709221921f0dbc1",
@@ -213,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 37.md",
+                "file": "dm/sessions/Session 41.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +210,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 37"
+              "title": "Backlinks for Session 41"
             }
           },
           {
@@ -232,12 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 37.md",
+                "file": "dm/sessions/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 37"
+              "title": "Outgoing links from Session 39"
             }
           },
           {
@@ -280,12 +267,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,45 +286,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "991f001aa4ccf41c",
+  "active": "7d55caee01830cec",
   "lastOpenFiles": [
-    "img/maps/new_sigil_transit.png",
+    "places/islands/Île Follette.md",
+    "dm/sessions/Session 40.md",
+    "dm/sessions/Session 41.md",
+    "places/cities/Pathos Harbor.md",
+    "dm/quests/Lost in Deep Cover.md",
+    "dm/sessions/Session 39.md",
+    "places/cities/New Sigil.md",
+    "lore/adventuring_info/Stable Ledger.md",
+    "lore/The Turnstone Sigil.md",
+    "npc/people/Skrabroth Sootvein.md",
+    "dm/puzzles/Pontecita Navigational Puzzle.md",
+    "dm/puzzles/Pasted image 20250727203255.png",
+    "dm/puzzles/15E4A500",
+    "dm/puzzles/1E84A500",
+    "places/islands/Khiage.md",
+    "places/cities/Faciv.md",
+    "places/landmarks/Blind Eye Borough.md",
+    "dm/Encounter Difficulty.md",
+    "lore/On the Dusty Dunes of Dynistia.md",
+    "lore/adventuring_info/Assassin Note 1.md",
+    "dm/puzzles/F1EAB000",
+    "dm/puzzles/enzo_tzicara_cipher.xlsx",
+    "dm/puzzles/CC88B000",
+    "dm/puzzles/~$enzo_tzicara_cipher.xlsx",
+    "lore/Early Artyrian Timeline.md",
+    "dm/Hidden Lore/Shifty Dick's Shop Wares.md",
+    "places/landmarks/Monger's Market.md",
+    "dm/sessions/Session 0.md",
+    "dm/sessions/Session 33.md",
+    "dm/sessions/Session 37.md",
+    "dm/sessions/Session 38.md",
+    "dm/sessions/Session 32.md",
+    "dm/Roll a 20.md",
+    "Untitled.base",
     "img/maps/new_sigil.drawio.crswap",
+    "img/maps/new_sigil_transit.png",
     "img/maps/new_sigil.drawio",
     "npc/groups/Pasted image 20260416173948.png",
-    "npc/people/Miles Lobo.md",
-    "dm/Roll a 20.md",
-    "dm/Hidden Lore/Case File - Jessica Peterson.md",
-    "dm/sessions/Session 37.md",
-    "places/landmarks/Estatione d'Este.md",
-    "places/islands/Linnæsa.md",
-    "places/cities/New Sigil.md",
-    "places/islands/Île Follette.md",
-    "npc/groups/The Crash.md",
-    "dm/sessions/Session 36.md",
-    "npc/groups/The Kismet.md",
-    "npc/groups/The Stallignment.md",
-    "dm/sessions/Session 34.md",
-    "dm/sessions/Session 35.md",
-    "lore/Early Artyrian Timeline.md",
-    "dm/sessions/Session 0.md",
-    "admin/session_notes/Session 0 Notes.md",
-    "places/landmarks/Outer Counties.md",
-    "pc/Bugsy.md",
-    "dm/sessions/Session 30.md",
-    "places/cities/Rusted Keys.md",
-    "places/cities/Ruddy Rock.md",
-    "npc/groups/The Defiant.md",
-    "dm/sessions/Session 31.md",
-    "npc/people/Nohu.md",
     "dm/Hidden Lore/14127230",
-    "dm/Hidden Lore/F9891D50",
-    "dm/Hidden Lore/EE29FC50",
-    "dm/Hidden Lore/keelen_edge_notes.xlsx",
-    "dm/Hidden Lore/6E78FC50",
-    "dm/Hidden Lore/~$keelen_edge_notes.xlsx",
-    "dm/puzzles/D22FC000",
-    "dm/puzzles/E20FC000",
     "npc/people/Pasted image 20260111135740.png",
     "npc/people/Pasted image 20251220122534.png",
     "npc/people/soneela_img.png",
@@ -346,8 +334,6 @@
     "img/lord_maris_pic.png",
     "npc/people/aine_mcphee.png",
     "img/Pasted image 20251025144433.png",
-    "img/maps/rifterra.png",
-    "img/maps/Havangart.jpg",
     "Untitled.canvas"
   ]
 }
