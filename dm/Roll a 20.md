@@ -27,6 +27,9 @@
 - Find someone in [[The Kismet]] but is having doubts
 - See [[Dr. Shoals]]
 - Successfully able to infiltrate [[Pazuzu's Stables]]
+- 50% enemies in [[Pazuzu's Stables]]
+- Learn about [[Dr. Shoals]] (hint if he's on the island)
+- Full access to Jessica's Body
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -44,6 +47,8 @@
 - [[Zumaj]] not to be pissed
 - Something "lucky"
 - Something "lucky"
+- Metrocards for everyone!
+- Metrocards for everyone!
 
 # Rei
 - Immediate clues on [[Lord Emberfall]]
@@ -67,6 +72,9 @@
 - [[Miles Lobo]] was researching [[The Kismet]] movements
 - Concrete lead on [[Jessica Peterson]] 🎉
 - No conflict aboard this train
+- Info on the assassin of [[Enzo Tzicara]] 🎉
+- Private convo with [[Leopold Harvey]] 🎉
+- Exonerate ourselves by exposing [[Pierre O'Leary]]
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -91,7 +99,8 @@
 - See [[Prickle Burrowheart]]'s mom
 - Safe way to make money
 - Encounter assistance 🎉🎉
-- 
+- Lead on TS Bane
+- Meet someone on the force who's *leery* of [[Pierre O'Leary]]
 # Lindsay
 - No debt
 - help in the alarm in the Pits
@@ -110,9 +119,15 @@
 - Find slave from [[The Sunken Core]] who's seen [[Nohu]]
 - Concrete lead on [[Nohu]]
 - Bugsy and Sybil get there in time
+- Lead on TS Bane
+- Somewhere in chaos of getting out of here, gain access to the actual case file.
 ## Spencer
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
 - Roll a spoil and get on the ship so with a distant start so I can go up to the dog and help (Jiacco, 2/8)
 - Fight a big fiery dragon
 - I will save the world with my alien and me
+- Make a block (get a shield)
+- We will split up
+## sdf
+- Metrocard for everyone! 

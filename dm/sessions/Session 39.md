@@ -54,15 +54,7 @@ Title:
 		- ~20 cells to hold [[The Kismet]]'s quarry. Each individually locked
 		- Ledger of those that passed through. Name, arrival/departure date, destination, POC/notes
 			- [[Nohu]]'s name is on there, marked as having left 2 days ago with a new "overseer" in [[Devil's Bargain]] - *Ambassador to the 2nd Circle* and adjudicator of contracts, [[Timur Stripesbane]]
-2. Meeting up with [[New Sigil Police Department (NSPD)]]
-	- NPCs:
-		- [[Johnboy Scivone]] - An up and coming officer, brought in with [[Pierre O'Leary]] to be Chief Deployment Officer - see [[Lost in Deep Cover]] quest...
-		- [[Dina del Pie]] - advanced in the ranks and generally oversees day-to-day operations of the precinct, generally an accountant and not a true officer but leads the front desk and relays directions from Pierre to the rest of the crew
-		- [[Pierre O'Leary]], human, early 40's, political appointee from [[Tethis Rosevale]];
-			- generally well-liked on the force and by the populous despite generally lacking experience and credentials
-		- Deputy Chief: [[Leopold Harvey]] - office bound and pushed out of the decision making chain by [[Pierre O'Leary]] out of concerns he'll "rock the boat"
-			- Disgruntled and demoralized but also bummed that the population of seems to be largely in favor of the changes underway ("The segmentation strategy")
-3. Quest Boards:
+2. Quest Boards:
 	- [[Ice in the Dregs]] - posted in [[Estatione d'Este]] to resolve in [[The Deep Dregs]], 500gp
 	- [[Finding a Familiar]] - posted in [[Estatione d'Este]],  resolve nearby 150gp
 

@@ -24,15 +24,15 @@ Findings from the morgue and forensics report indicate significant but inconsist
 
 Morgue request to re-examine the victim's body approved by management chain, [[Leopold Harvey]] remains supportive throughout but urging caution at trying to make something out of nothing.
 
-Morgue request approval rescinded by newly appointed chief of NSPD, [[Pierre O'Leary]] on grounds of lack of evidence surrounding this case and desire to reprioritize forces towards crime prevention and not investigation.
+Morgue request approval rescinded by newly appointed chief of NSPD, [[Pierre O'Leary]] on grounds of a lack of evidence surrounding this case and desire to reprioritize forces towards crime prevention and not investigation.
 
-Reporting officer placing case on backburner following direct order from O'Leary and new deputy [[Leopold Harvey]]. Moreover, findings from case may further jeopardize the already unstable mental acuity of...
+Reporting officer placing case on backburner following direct order from O'Leary and compliance from deputy [[Leopold Harvey]]. Moreover, findings from case may further jeopardize the already unstable mental acuity of former NSPD officer assigned to...
 ## ~~~Tear Line ~~~
 
-former NSPD officer assigned to this case, [[Bugsy]] Roger Peterson. Newly shared details regarding the nature of the victim indicate the case may pose undue risk and harm if pursued further.
+ to this case, [[Bugsy]] Roger Peterson. Newly shared details regarding the nature of the victim indicate the case may pose undue risk and harm if pursued further.
 
-Recent evidence and investigations into the background of victim and statements made under duress by victim's former employer [[Maureen Duveaux]] suggest victim may have had connections and undiscovered prior motives that could pose significant CI threats to NSPD. 
+Recent evidence and investigations into the background of victim and statements made under duress by victim's former employer [[Maureen Duveaux]] suggest victim may have had connections and undiscovered prior motives that could pose significant CI threats to NSPD. Caution urged at taking these comments for scripture: reports of irregular schedules and keeping odd company for weeks on end before disappearing and then reappearing with a modified appearance (hair color/style typically); periodic memory loss - particularly during periods of renewing connections with [[Calvin’s Cabaret]]; and a somewhat opulent lifestyle that is at odds with her salary at the Cabaret.
 
 Ongoing slow-walking of approval process at city-managed morgues and burial sites continue to pose unreasonable delays and restrictions on NSPD oversight and access to victim's body. [[Tethis Rosevale]] administration alerted about continued delays - requests for comment and authoritative direction remain unanswered, even following direct contact by [[Miles Lobo]].
 
-Officer operating under assumption that forces within administration are engaged in a cover-up, potentially of unpresidented scale. Unclear the extent to which Rosevale is aware of the movements of his underlings but actions to de-escalate and deprioritize this investigation appear to have lessened oversight and tension surrounding daily NSPD operations...
+Officer operating under assumption that forces within administration are engaged in a cover-up, potentially of unprecedented scale. Unclear the extent to which Rosevale is aware of the movements of his underlings but actions to de-escalate and deprioritize this investigation appear to have lessened oversight and tension surrounding daily NSPD operations...

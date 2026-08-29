@@ -18,6 +18,7 @@ Made from the talon of a copper dragon
 Made from one of the throat glands of a great **mercury** dragon
 - can use a bonus action to throw a 20, 30, or 40 foot line of quicksilver that immediate solidifies; 
 - one can use their movement speed along the line of mercury unimpeded by terrain/altitude
+- Harvested by [[Keelan Edge]] in [[Session 43]]
 
 ## Iron Shield of the Hunter
 - Adv on Survival Checks; 

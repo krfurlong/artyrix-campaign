@@ -61,6 +61,13 @@ Some names:
 - Refer to the [[Stable Ledger]] for POCs that can be recruited; also details on [[Nohu]]'s whereabouts.
 - Arms closet (F-side): 2 morningstars, 2 greataxes, 1 scimitar, 1 shield, 200 gold, 2 health potions.
 
+### Control Panel
+- Black --> trap door
+- Blue --> Electric rows (DC15 Dex) on the aisles; 1d12 (fun/none)
+- Red --> Emergency release (all cells open)
+- Green --> Middle Poison begins to seep; DC15, 2d6 poison damage or half on save
+- Press all: Alarm
+
 ### Backroom loot
 - Each demonblood beserker (4) has a vial of rage serum (+2 damage, no spells, res physical damage, 1 minute)
 - Hunters have (4) demon blood arrow (-3 to hit, +6 damage)
@@ -71,18 +78,6 @@ Some names:
 	- Scribbled note in the ledger:
 		- Word came from the Upper Ranks of [[Inscriptus]]: 
 		  *Special order to meet the unique requests of that new devil from Dis. Understand that it's not typically customary to move the product this quickly after intake but you **not** want to cross this one...His grudges are the stuff of legends.*
-		- 
-
-## Moving forward...
- [[Skrabroth Sootvein]] would know if the party could find him, would need to connect with New Sigil PD first
-	- Skrabroth is positioned strategically in [[Whisport]], tracks in bound cargo and shipping activities out of the western port
-	- disguised as a beggar in the metro junction there, next to a window overseeing the docks.
-	- He could also aid them in finding/connecting with [[Father Silas]] in [[Whisport]]
-		- Incredibly modest temple+soup kitchen where the doors are lined with fur, to mute the whispers flooding inwards...and outward
-		- [[Temple of the Silent Grove]], permitted to exist by [[The Stallignment]] with a high degree of skepticism and oversight.
-			- A silver barked tree with leaves of dark emerald green grows within. Despite being completely indoors, mist seems to radiate from it and droplets of condensation fall from its leaves - into pre-positioned urns and mugs that litter the floor surrounding it.
-			- Outside of Eldath iconography, you see faction symbology - thanking [[The Stallignment]] for providing financing for this space and [[The Open Hand]] - for their ongoing volunteer support and leadership
-		- Silas greets all in confessional with: *Non Salus Per Dominum.* (NSPD...) but otherwise welcoming those to speak plainly and atone.
 
 ### Who's on Dispatch?
 > Bugsy, returning that favor: Timesheets from back then are spotty and require admin approval but I pulled some strings. [[Pierre O'Leary]] was on point that night. Crazy - must've been in his first months on the force - don't think I knew him back then. Stay safe, you know where to find me if you need to talk - [[Miles Lobo]]
