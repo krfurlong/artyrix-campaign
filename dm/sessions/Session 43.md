@@ -88,3 +88,4 @@ Large message board outside the dignified estate:
 	- Something about a mirror? Maybe Jessica leaving a clue.
 - Jump back into the [[SkunkOps]] intel searching
 - [[Sybil]] barters with Mother Marrow to give up her last name
+	- [[Sybil]] scries on her beau.

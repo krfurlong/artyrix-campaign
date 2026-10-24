@@ -9,3 +9,4 @@ A mage faction, generally populated by those who studied at or preside over the 
 - [[Lord Emberfall]] - an ambitious but short-tempered mage (human/elf) who rose as an urchin from the streets of [[Vecchia]]
 - [[Katya the Carrion]] - (former member; exiled for the practice of necromancy at the expense of the living)
 - [[Ignacio Willowrend]] - a former wood-elf student of the [[Arcanum Decetto]] originally hailing from [[Île Follette]]
+- [[Yezrio Luxenthryll]] - Mercury dragon, educator and college dean. 

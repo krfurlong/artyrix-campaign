@@ -40,8 +40,8 @@ NB: every ~20 minutes, a mine car runs down, piloted by a black kobold on the pa
 Options: 
 [[Inscriptus]] Port district
 [[Inscriptus]] exterior gates
-[[Devil's Bargain]] Central Crossing
-Outer [[New Sigil]] Outpost (eg just outside the gates)
+[[Devil's Bargain]] [[Double Crossing]]
+Outer [[New Sigil]] Outpost (eg just outside the gates)- eg., the [[Southern Pylon]]
 Outer [[Terrapolis]]
 Sub-Mountain outpost of [[East Foundry]]; near [[Eagle's Nest]] 
 
