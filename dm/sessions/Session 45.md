@@ -83,7 +83,7 @@ Horax knows:
 
 Cart 1 - LOOTED by Bugsy 
 - Kobold remains (bones), dagger, coin purse (1200gp for 2 not delivered potions), 6 water breathing potions
-- Letter from **The Grey Quorum** of [[The Stallignment]]: 
+- Letter from **[[The Grey Quorum]]** of [[The Stallignment]]: 
 	>To: Kismet Overseers, and their Extraplanar Advisors, of [[Devil's Bargain]]
 	>
 	The Grey Quorum of [[The Stallignment]] wishes to receive official word as to the status of sub-nautical extraction efforts off the coast of Devil's Bargain. The Quorum has considered our factions current arrangement quite advantageous, strategically impactful, and profitable. We again, reiterate our commitment to our current contract. 
@@ -97,11 +97,10 @@ Cart 2 - LOOTED by Sybil
 Cart 3 - LOOTED by Sybil
 - Kobold remains
 - Internal Kismet note:
-> [[Pazuzu's Stables]] junction compromised by group of hodge-podge adventurers. Unclear motivations but scouts tracked them back to [[New Sigil Police Department (NSPD)]] HQ. [[The Stallignment]] connections with SCIVVY assert the group in unaffiliated with NSPD. 
+> [[Pazuzu's Stables]] junction compromised by group of hodge-podge adventurers. Unclear motivations but scouts tracked them back to [[New Sigil Police Department (NSPD)]] HQ. [[The Stallignment]] connections with the SCIVVY asset assert the group in unaffiliated with NSPD. 
 > Be aware: group armed and dangerous.
 > Opportunity: one of them carries the tattoos of Hopena - likely high-value if delivered alive to TS Bane.
  
-
 ### Ongoing Referendums for flavor?
 
 - On New Sigil Regulation 33492.61a subsection 43: Increasing the tariff on cross-level teleportation between [[Parlimentary Square]] and the [[Idyllic Lofts]] to 20gp from 15gp, with funds diverted to mitigating pollution accumulating in [[The Deep Dregs]].

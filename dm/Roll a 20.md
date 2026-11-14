@@ -32,6 +32,7 @@
 - Full access to Jessica's Body
 - Info on why they're collecting bodies ([[The Kismet]])
 - Kryst will talk to me about branding situation
+- Find a way for the entire party to get waterbreathing
 # Mike
 - Completely random everyday
 - "autopilot" spell
@@ -80,6 +81,7 @@
 - Exonerate ourselves by exposing [[Pierre O'Leary]]
 - Ascertain the identity/motivations of the person killing [[SkunkOps]]
 - Evidence that incriminate [[Pierre O'Leary]] in [[Zodiac Row]]
+- quid pro quo with [[Timur Stripesbane]] for Nohu
 # Lauren
 - Meet someone from our past 🎉 succeeds!!
 - Get a bigger a better sailing vessel
@@ -106,6 +108,7 @@
 - Encounter assistance 🎉🎉
 - Lead on TS Bane
 - Meet someone on the force who's *leery* of [[Pierre O'Leary]]
+- Get more than [[Nohu]]
 - 
 # Lindsay
 - No debt
@@ -129,6 +132,7 @@
 - Somewhere in chaos of getting out of here, gain access to the actual case file.
 - [[Keelan Edge]] reaches out to talk
 - Brand combined with charisma will get people without violence
+- Kai and Aoife's brands do something
 ## Spencer
 - Just come in and hammer somebody, and just be in the cave and I will just come in "bmufff", and like...
 - Go find the kid and find his grandma
@@ -138,5 +142,4 @@
 - Make a block (get a shield)
 - We will split up
 - I will do something: I will have big muscles
-## sdf
-- Metrocard for everyone! 
+- Climb up walls
