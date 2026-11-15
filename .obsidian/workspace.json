@@ -84,34 +84,6 @@
             }
           },
           {
-            "id": "734dfd8960334c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/quests/Prodigal Brother.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prodigal Brother"
-            }
-          },
-          {
-            "id": "013e42405ac60e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 46.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 46"
-            }
-          },
-          {
             "id": "a2f435443d7625b9",
             "type": "leaf",
             "pinned": true,
@@ -142,49 +114,47 @@
             }
           },
           {
-            "id": "171199fea2082898",
+            "id": "2b6bab9dccdcc143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/people/Timur Stripesbane.md",
+                "file": "npc/people/Katya the Carrion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timur Stripesbane"
+              "title": "Katya the Carrion"
             }
           },
           {
-            "id": "e48ead135711dc52",
+            "id": "b4fd304fd079ebc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/adventuring_info/Stable Ledger.md",
+                "file": "Infiltrating Bane's Lair at Taj Ferud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stable Ledger"
+              "title": "Infiltrating Bane's Lair at Taj Ferud"
             }
           },
           {
-            "id": "8d34454e71c348e2",
+            "id": "63ca3bc5debff833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "dm/Encounter Difficulty.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20261113154549.png"
               },
-              "icon": "lucide-file",
-              "title": "Encounter Difficulty"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261113154549"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -218,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chum",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -272,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 47.md",
+                "file": "img/Pasted image 20261113154549.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 46.md",
+                "file": "dm/sessions/Session 47.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -334,8 +304,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -343,7 +313,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,39 +325,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a2f435443d7625b9",
+  "active": "05c95755214d5bee",
   "lastOpenFiles": [
-    "dm/sessions/Session 46.md",
-    "dm/Encounter Difficulty.md",
     "dm/sessions/Session 47.md",
-    "lore/adventuring_info/Stable Ledger.md",
-    "places/cities/Inscriptus.md",
-    "dm/quests/Prodigal Brother.md",
-    "npc/people/Timur Stripesbane.md",
-    "lore/adventuring_info/Pontecita TE Journal Entry.md",
-    "Pasted image 20261113154549.png",
-    "dm/sessions/Session 20.md",
-    "Nora's Notes.md",
-    "dm/sessions/Session 21.md",
+    "dm/quests/Infiltrating Bane's Lair at Taj Ferud.md",
+    "dm/sessions/Session 46.md",
     "places/cities/Devil's Bargain.md",
+    "npc/people/Katya the Carrion.md",
+    "dm/quests/Prodigal Brother.md",
+    "lore/adventuring_info/Stable Ledger.md",
+    "dm/Encounter Difficulty.md",
+    "dm/sessions/Session 44.md",
+    "npc/people/Jasad Peatmire.md",
+    "dm/sessions/Session 25.md",
+    "npc/groups/The Sleepwalkers.md",
+    "places/islands/Île Follette.md",
+    "dm/sessions/Session 28.md",
+    "npc/groups/The Reinvention.md",
+    "lore/The Turnstone Sigil.md",
+    "npc/people/Timur Stripesbane.md",
+    "places/cities/Inscriptus.md",
+    "lore/adventuring_info/Pontecita TE Journal Entry.md",
+    "img/Pasted image 20261113154549.png",
+    "dm/sessions/Session 20.md",
+    "dm/Nora's Notes.md",
+    "dm/sessions/Session 21.md",
     "dm/sessions/Session 45.md",
     "lore/Early Artyrian Timeline.md",
     "npc/people/Rogi Cafir.md",
-    "npc/people/Katya the Carrion.md",
     "npc/people/Tau-0.md",
-    "npc/groups/The Reinvention.md",
-    "places/islands/Île Follette.md",
-    "dm/Roll a 20.md",
-    "dm/sessions/Session 42.md",
-    "places/landmarks/Double Crossing.md",
-    "dm/sessions/Session 44.md",
-    "The Hall of Hopena.md",
-    "admin/Ship Costs.md",
-    "dm/sessions/Session 43.md",
     "img/maps/devil_s_bargain.png",
     "Pasted image 20260816133422.png",
     "Pasted image 20260815220417.png",

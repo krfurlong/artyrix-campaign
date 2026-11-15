@@ -81,4 +81,17 @@ He laughs - turns to face you all properly - and immediately fixes his gaze on K
 			- inflict wounds
 			- cure wounds (2d8+5)
 			- blight
-- 2 other things in the area/one per neighborhood?
+- [[Moruza T'char]] has doubts and suspicions of [[Timur Stripesbane]]'s true intentions but cannot reasonably investigate him given his position and stature
+	- Why?
+		- Accounts of his exploits precede him.
+		- A noble family (parents, 3 kids) in the city was slain as soon as he arrived; visceral murder that seemed entirely without cause
+			- Family slighted TSBane in a past life; he took proportional vengeance but was wary of crossing the middle-daughter... 
+		- Only the family's middle child; 19 years old, a daughter half elven, [[Aelyrin Dua'thar]], a necromancy-inclined mage/warlock who's made a pact with a powerful entity who's beyond the veil ([[Jasad Peatmire]]'s father, going by: **The Rest-Less One**)
+			- pale skin; jet black hair falling straight down behind her;
+			- pale grey dress, sinched at the waist with a black cord of braided but flayed rope.
+			- Home in the [[Sunken Bazaar]], supporting [[Ingots & Irons]] underwork alongside [[Rogi Cafir]] as an academic; not directly [[The Reinvention]]-aligned 
+	- Payment: a favor, within reason...
+	- Risk: if you are caught, she will not defend you in the slightest, and would be forced to throw the entire weight of [[The Kismet]] at your party
+		- Unless you managed to slay anyone who found you...
+		- [[Infiltrating Bane's Lair at Taj Ferud]]
+- 

@@ -50,7 +50,7 @@ It is nearly a moonless night this evening - as Dat Aft, buffered by the accompa
 - Frigates
 	- Captain/Living person names:
 		- [[Morvaine Shadeclad]]: shadow-elf, with distant ties to the exiled [[The Sleepwalkers]] 
-		- [[Tohu-0]]: a malfunctioning automaton from [[Delta Prime]] seeking destruction and creation in one foul swoop
+		- [[Tau-0]]: a malfunctioning automaton from [[Delta Prime]] seeking destruction and creation in one foul swoop
 	- Combat stats:
 		- https://krfurlong.github.io/bestiary/creature/construct-alchemist (Tohu)
 		- https://krfurlong.github.io/bestiary/creature/blackguard (Morvaine), glaive smites are cool.
